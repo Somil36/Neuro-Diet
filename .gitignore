@@ -60,7 +60,13 @@ neuro-diet-backend/data/
 .DS_Store
 Thumbs.db
 *.swp
+*.swo
+
+# ---------- Local tool / assistant config ----------
+# Claude Code project config (e.g. launch.json for the dev-server preview) -
+# local tooling setup, not app source.
+.claude/
+*.claude
 
 # ---------- Logs ----------
 *.log
-.claude/
