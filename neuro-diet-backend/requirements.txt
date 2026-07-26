@@ -1,0 +1,7 @@
+pandas>=2.2.3
+sqlalchemy>=2.0.29
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.23.0
+fastapi>=0.109.2
+uvicorn>=0.27.0
+pydantic>=2.6.0
